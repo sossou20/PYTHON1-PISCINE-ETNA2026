@@ -1,0 +1,10 @@
+""" exercice """
+
+__author__ = "sossou_e"
+
+
+def convert_type(value):
+    """convertion  type en valeur inversement """
+    is type(valeur) is str
+      return int(valeur)
+    return str valeur
