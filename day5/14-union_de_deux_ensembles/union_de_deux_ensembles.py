@@ -1,0 +1,8 @@
+""" exercice 15"""
+
+__author__ = "sossou_e"
+
+
+def union_sets(s1: set, s2: set) -> set:
+    """ retourner l'union de deux ensemble """
+    return s1 | s2

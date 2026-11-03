@@ -1,0 +1,6 @@
+""" exercice 17"""
+
+__author_ = "sossou_e"
+
+
+def is_subset(s1: set, s2: set) -> bool:
