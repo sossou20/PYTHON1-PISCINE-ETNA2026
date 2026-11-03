@@ -1,0 +1,8 @@
+""" exercice 10"""
+
+__author__ = "sossou-e"
+
+
+def squares(lst: list) -> list:
+    """ retourner une liste contenant le carrer """
+    if 
